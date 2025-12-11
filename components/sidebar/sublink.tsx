@@ -92,7 +92,9 @@ export default function SubLink(
 
               const modifiedItems = {
                 ...innerLink,
-                href: `${href}${innerLink.href}`,
+                href: innerLink.href.startsWith("/")
+                  ? innerLink.href
+                  : `${href}${innerLink.href}`,
                 level: level + 1,
                 isSheet,
               }

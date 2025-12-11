@@ -6,12 +6,17 @@ export const Navigations = [
     href: `/docs${PageRoutes[0].href}`,
   },
   {
-    title: "Rubix",
-    href: "https://rubixstudios.com.au",
+    title: "Producer.ai",
+    href: "https://www.producer.ai/",
+    external: true,
+  },
+    {
+    title: "Official Docs",
+    href: "https://www.producer.ai/docs",
     external: true,
   },
 ]
 
 export const GitHubLink = {
-  href: "https://github.com/rubixvi/rubix-documents",
+  href: "https://github.com/rnsmlttr/prodai",
 }

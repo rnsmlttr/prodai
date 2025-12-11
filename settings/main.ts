@@ -1,4 +1,4 @@
-export const url = "https://rubix-documents.vercel.app"
+export const url = "https://prodai-five.vercel.app/"
 export const siteicon = "/icon.png"
 
 export const gtm = "GTM-XXXXXXX"

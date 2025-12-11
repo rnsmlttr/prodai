@@ -1,20 +1,12 @@
 export const Documents = [
     {
-        heading: "Introduction",
-        title: "Basic Setup",
-        href: "/basic-setup",
+        heading: "Getting Started",
+        title: "Introduction",
+        href: "/getting-started/introduction",
         items: [
             {
-                title: "Installation",
-                href: "/installation",
-            },
-            {
-                title: "Setup",
-                href: "/setup",
-            },
-            {
-                title: "Changelog",
-                href: "/changelog",
+                title: "The FUZZ Engine",
+                href: "/getting-started/fuzz-engine",
             },
         ],
     },
@@ -22,29 +14,13 @@ export const Documents = [
         spacer: true,
     },
     {
-        title: "Navigation",
-        href: "/navigation",
-        heading: "Documents",
-    },
-    {
-        title: "Structure",
-        href: "/structure",
+        heading: "Core Platform",
+        title: "Studio Interface",
+        href: "/core-platform/studio-interface",
         items: [
             {
-                title: "Deep",
-                href: "/deep",
-                items: [
-                    {
-                        title: "Deeper",
-                        href: "/deeper",
-                        items: [
-                            {
-                                title: "Even deeper",
-                                href: "/even-deeper",
-                            },
-                        ],
-                    },
-                ],
+                title: "Tools & Features",
+                href: "/core-platform/tools-features",
             },
         ],
     },
@@ -52,45 +28,13 @@ export const Documents = [
         spacer: true,
     },
     {
-        title: "Markdown",
-        href: "/markdown",
-        heading: "Components",
+        heading: "Guides",
+        title: "Songwriting Guide",
+        href: "/guides/songwriting-guide",
         items: [
             {
-                title: "Cards",
-                href: "/cards",
-            },
-            {
-                title: "Diagrams",
-                href: "/diagrams",
-            },
-            {
-                title: "Filetree",
-                href: "/filetree",
-            },
-            {
-                title: "Lists",
-                href: "/lists",
-            },
-            {
-                title: "Maths",
-                href: "/maths",
-            },
-            {
-                title: "Notes",
-                href: "/notes",
-            },
-            {
-                title: "Steps",
-                href: "/steps",
-            },
-            {
-                title: "Table",
-                href: "/table",
-            },
-            {
-                title: "Tabs",
-                href: "/tabs",
+                title: "Licensing",
+                href: "/guides/licensing",
             },
         ],
     },

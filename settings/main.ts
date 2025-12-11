@@ -4,22 +4,22 @@ export const siteicon = "/icon.png"
 export const gtm = "GTM-XXXXXXX"
 export const gtmconnected = true
 
-export const sitename = "Documents"
+
+export const sitename = "Producer.ai"
 export const description =
-  "This comprehensive documentation template, crafted with Next.js and available as open-source, delivers a sleek and responsive design, tailored to meet all your project documentation requirements."
+  "Producer.ai represents the evolution of AI music generation. Powered by the new FUZZ-2.0 audio model."
 export const keywords = [
-  "Next.js",
-  "documentation",
-  "Rubix Studios",
-  "open source",
-  "SEO",
+  "AI Music",
+  "Producer.ai",
+  "Generative Audio",
+  "Agentic Workflow",
 ]
 export const urlimage = "/images/og-image.png"
-export const imagealt = "Rubix Studios Documentation"
-export const twitterhandle = "@RubixStudios"
+export const imagealt = "Producer.ai Documentation"
+export const twitterhandle = "@ProducerAI"
 
-export const companyname = "Rubix Studios"
-export const companylink = "https://rubixstudios.com.au"
+export const companyname = "Producer.ai"
+export const companylink = "https://producer.ai"
 
 export const branding = true
 export const rightsidebar = true
